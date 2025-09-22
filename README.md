@@ -43,6 +43,7 @@ Here is a detailed description of all the things that I did while Performing the
    <img width="996" height="582" alt="image" src="https://github.com/user-attachments/assets/98397610-7837-4447-a7f7-11b3dfca4234" />
 
    ix. Finding Outliers in Wage
+   
    <img width="544" height="432" alt="image" src="https://github.com/user-attachments/assets/df4b7047-d27a-4c62-89cf-12eb476a8fee" />
 
    x. Plotting a histogram to check the distribution of the Player wages
@@ -62,16 +63,17 @@ Here is a detailed description of all the things that I did while Performing the
 6. Repeating the steps 1-2-3 on the newly imported datasets
 7. Checking the Overall player rating of a player in year 2017 and 2018 and then calculating their difference to check for improvement or bad performance. Inner joining the 2017 data with 2018 based on player name and adding suffixes to help distinguish between the data columns.
 8. Based on the 'Player Overall Rating Change in a year' obtained from step 6, finding the top 10 players who have had the most improvement and plotting it on a barplot.
+   
    <img width="996" height="525" alt="image" src="https://github.com/user-attachments/assets/35e62e28-807f-48f8-b19e-2cd20f2ebc51" />
 
-9. Comparing the preferred foot of a player against the overall rating of the player to check if one is better than the other ie, checking if right legged players have an advantage
+10. Comparing the preferred foot of a player against the overall rating of the player to check if one is better than the other ie, checking if right legged players have an advantage
    <img width="562" height="432" alt="image" src="https://github.com/user-attachments/assets/62b7ee46-8abe-4e40-80fc-146cad71ff26" />
 
-10. Calling 'parse_values' to treat the new dataset columns
-11. Extracting the 'Name' and 'Value' column from the years ie 2017,18,19,20 and 21 and merginng them into a single dataframe which records the name of the player and his value in the years. Additionally, found out the value change in the player which is basically difference in his value in the year 2017 and the year 2021 to check the level of improvement in the player based on his Value. Then for the players who have had the most significant value change in the 5 years, I plotted a line chart which basically shows individual player's value in each year to visualize the growth
+11. Calling 'parse_values' to treat the new dataset columns
+12. Extracting the 'Name' and 'Value' column from the years ie 2017,18,19,20 and 21 and merginng them into a single dataframe which records the name of the player and his value in the years. Additionally, found out the value change in the player which is basically difference in his value in the year 2017 and the year 2021 to check the level of improvement in the player based on his Value. Then for the players who have had the most significant value change in the 5 years, I plotted a line chart which basically shows individual player's value in each year to visualize the growth
     <img width="988" height="540" alt="image" src="https://github.com/user-attachments/assets/fe5ae678-e697-47a2-82bc-7a72af6def57" />
 
-12. Finding the Correlation of the Numerical Columns in the dataset with the columns 'Best Overall Rating' and finding the top 10 positive and negative ones.
+13. Finding the Correlation of the Numerical Columns in the dataset with the columns 'Best Overall Rating' and finding the top 10 positive and negative ones.
 
 # Model Building Steps Breakdown 
  ## Model No. 1 
