@@ -33,6 +33,7 @@ Here is a detailed description of all the things that I did while Performing the
    <img width="954" height="525" alt="image" src="https://github.com/user-attachments/assets/f7eadb10-fa4b-4294-9561-08edd80328ea" />
 
    vi. Finding Outliers in Value of Players
+   
    <img width="520" height="432" alt="image" src="https://github.com/user-attachments/assets/2f0b43a4-3040-4dbb-a42f-e0c906f47736" />
 
    vii. Plotting a scatterplot to check the relation between Player Value and Player OVerall Rating
